@@ -30,3 +30,7 @@ Embedded Systems Concepts
 
 * C Programming
 * Embedded Systems Concepts
+
+  ## 📸 Output Screenshot
+
+![Output](output.png)
